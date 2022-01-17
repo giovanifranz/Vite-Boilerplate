@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-vite",
   "version": "0.0.0",
-  "prive": true,
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
